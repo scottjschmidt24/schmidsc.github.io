@@ -48,4 +48,4 @@ BS in Geography and Geospatial Science
 https://oregonstate.edu/
 
 
-![Patagonia From Space](Photo 1.jpg)
+![Patagonia From Space](Photo_1.jpg)
