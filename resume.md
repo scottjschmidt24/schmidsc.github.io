@@ -8,7 +8,7 @@ scottjschmidt24@gmail.com
 
 > Life is like riding a bicycle.
 >To keep your balance you must keep moving.""
->Albert Einstein*
+>-Albert Einstein
 
 # Summary
 
