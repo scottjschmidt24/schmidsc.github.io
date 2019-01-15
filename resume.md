@@ -4,7 +4,7 @@ Scott Schmidt
 (503)941-6844
 
 scottjschmidt24@gmail.com
-:evergreen_tree: :globe_with_meridians: :cyclone:
+:evergreen_tree::globe_with_meridians::cyclone:
 
 > Life is like riding a bicycle.
 >To keep your balance you must keep moving."
